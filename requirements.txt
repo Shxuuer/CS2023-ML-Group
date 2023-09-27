@@ -1,0 +1,7 @@
+--index https://pypi.douban.com/simple/
+
+jupyter
+numpy
+torch
+scikit-learn
+matplotlib
